@@ -24,10 +24,10 @@ const OutletPage = () => {
   ];
 
   return (
-    <div className="container bg-white mt-5 mx-auto p-4">
+    <div className="container bg-white  mx-auto p-4">
       {" "}
       <h1 className="text-3xl mt-10 text-[#bc3162] md:text-4xl font-bold mb-8 text-center">
-        Our Outlet
+        OUR OUTLET
       </h1>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {outlets.map((outlet, index) => (

@@ -6,7 +6,7 @@ export default function About() {
       {/* Judul Section */}
       <div className="text-center mb-12">
         <h1 className="text-3xl sm:text-4xl font-extrabold text-[#bc3162]">
-          Tentang Kami
+          ABOUT US
         </h1>
         <p className="mt-4 text-xs sm:text-lg text-[#bc3162]">
           Kami adalah penyedia dessert berkualitas yang mengutamakan rasa
